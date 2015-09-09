@@ -14,8 +14,11 @@
 ;; which has no middle button or scroll wheel.
 ;;
 
+;; Modifications made by TJCodeMaster
+;; 
 ;; Configuration
 Menu, Tray, Icon, shell32.dll, 20
+#SingleInstance force
 
 ;#NoTrayIcon
 
